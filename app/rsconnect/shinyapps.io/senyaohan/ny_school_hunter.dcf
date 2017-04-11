@@ -1,0 +1,11 @@
+name: ny_school_hunter
+title: NY School Hunter
+account: senyaohan
+server: shinyapps.io
+appId: 159558
+bundleId: 726014
+url: https://senyaohan.shinyapps.io/ny_school_hunter/
+when: 1488160853.25113
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
